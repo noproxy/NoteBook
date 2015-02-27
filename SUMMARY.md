@@ -14,3 +14,7 @@
 ##3. Git
 
 * [Miscellaneous](notes/git/miscellaneous.md)
+
+##4. Kindle
+
+* [Book List](notes/kindle/bookList.md)
