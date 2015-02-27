@@ -17,4 +17,4 @@
 
 ##4. Kindle
 
-* [Book List](notes/kindle/bookList.md)
+* [Book List](./notes/kindle/bookList.md)
