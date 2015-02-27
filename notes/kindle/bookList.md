@@ -1,8 +1,14 @@
 #Book List in kindle
 
+
 - Advanced Analytics with Spark.pdf
 - Advanced UNIX Programming.pdf
-- Algorithms Part I.mobi
+
+||*book*||*progress*||
+||Algorithms Part I.mobi||1401 of 10392||
+||Android Application Development Cookbook.pdf||222||
+
+
 - Android Application Development Cookbook.pdf
 - Android Application Programming with OpenCV.pdf
 - Android Database Programming.pdf
