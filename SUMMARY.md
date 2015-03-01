@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Gradle](notes/gradle/IntroducingGradle.md)
-* Sample
+* [Sample](notes/gradle/reference/sample.md)
 
