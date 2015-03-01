@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Git](git.md)
+* [Git](/notes/git/git.md)
 
