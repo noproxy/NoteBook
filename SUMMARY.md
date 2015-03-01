@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Git](notes/git/git.md)
-   * miscellaneous
+   * [miscellaneous](miscellaneous.md)
 * Gradle
 
