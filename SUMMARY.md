@@ -4,5 +4,7 @@
 * [Git](notes/git/git.md)
    * [miscellaneous](miscellaneous.md)
 * [Gradle](notes/gradle/gradle.md)
-   * Introducing Gradle
+   * [Introducing Gradle](notes/gradle/IntroducingGradle.md)
+* [Kindle](notes/kindle/bookList.md)
+   
 
