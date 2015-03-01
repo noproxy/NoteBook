@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Git](notes/git/git.md)
    * [miscellaneous](miscellaneous.md)
-* Gradle
+* [Gradle](notes/gradle/gradle.md)
 
