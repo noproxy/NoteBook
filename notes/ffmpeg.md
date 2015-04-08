@@ -195,7 +195,8 @@ Subtitle options:
 
 ## Codecs\file
 
-```ffmpeg -formats```  
+Command ```ffmpeg -formats``` will print these: 
 
-Reference
+Reference:
+
 - [myce.com](http://club.myce.com/f62/ffmpeg-command-line-options-166608)
