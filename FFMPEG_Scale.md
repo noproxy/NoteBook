@@ -56,7 +56,7 @@ or
 ```
 
 Reference
-- (FFmpeg Wiki)[1]
+- [FFmpeg Wiki][1]
 
 
 [1]:https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg#no1
