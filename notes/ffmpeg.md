@@ -1,7 +1,6 @@
 #FFMPEG command line option
 
-Reference
-- http://club.myce.com/f62/ffmpeg-command-line-options-166608/
+
 
 ```
 -r rate             set frame rate (Hz value, fraction or abbreviation)
@@ -181,3 +180,9 @@ Advanced options:
 -muxab bitrate      set the audio bitrate in mux tag (in kbit/s)
 -muxvb bitrate      set the video bitrate in mux tag (in kbit/s)
 ```
+##codecs\file
+```ffmpeg -formats```  
+
+
+Reference
+- [myce.com](http://club.myce.com/f62/ffmpeg-command-line-options-166608)
