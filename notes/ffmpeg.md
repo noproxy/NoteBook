@@ -1,6 +1,6 @@
-#FFMPEG command line option
+#FFMPEG
 
-
+## Command Line Option
 
 ```
 -r rate             set frame rate (Hz value, fraction or abbreviation)
@@ -26,8 +26,11 @@
 -pass n             select the pass number (1 or 2)
 -passlogfile file   select two pass log file name
 -newvideo           add a new video stream to the current output stream
+```
 
-Advanced Video options:
+## Advanced Video options:
+
+```
 -pix_fmt format     set pixel format
 -g gop_size         set the group of picture size
 -intra              use only intra frames
@@ -124,8 +127,11 @@ Advanced Video options:
 -skip_exp exponent  frame skip exponent
 -skip_cmp compare function  frame skip compare function
 -gray               encode/decode grayscale
+```
 
-Audio options:
+## Audio options:
+
+```
 -aframes number     set the number of audio frames to record
 -ab bitrate         set audio bitrate (in kbit/s)
 -ar rate            set audio sampling rate (in Hz)
@@ -143,16 +149,22 @@ Subtitle options:
 -scodec codec       force subtitle codec ('copy' to copy stream)
 -newsubtitle        add a new subtitle stream to the current output stream
 -slang code         set the ISO 639 language code (3 letters) of the current subtitle stream
+```
 
-Audio/Video grab options:
+##Audio/Video grab options:
+
+```
 -vd device          set video grab device
 -vc channel         set video grab channel (DV1394 only)
 -tvstd standard     set television standard (NTSC, PAL (SECAM))
 -ad device          set audio device
 -grab format        request grabbing using
 -gd device          set grab device
+```
 
-Advanced options:
+##Advanced options
+
+```
 -map file:stream[:syncfile:syncstream]  set input stream mapping
 -map_meta_data outfile:infile  set meta data information of outfile from infile
 -debug              print specific debug info
@@ -180,9 +192,10 @@ Advanced options:
 -muxab bitrate      set the audio bitrate in mux tag (in kbit/s)
 -muxvb bitrate      set the video bitrate in mux tag (in kbit/s)
 ```
-##codecs\file
-```ffmpeg -formats```  
 
+## Codecs\file
+
+```ffmpeg -formats```  
 
 Reference
 - [myce.com](http://club.myce.com/f62/ffmpeg-command-line-options-166608)
