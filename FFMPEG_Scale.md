@@ -1,3 +1,5 @@
+# Scaling (resizing) with ffmpeg
+
 FFmpeg has got a very powerful [scale filter]( https://ffmpeg.org/ffmpeg-filters.html#scale), which can be used to accomplish various tasks. Some of them are listed here. In all the examples, the starting image (input.jpg) will be this one (535x346 pixels):
 
 ![](input.jpg)
