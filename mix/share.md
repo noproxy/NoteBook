@@ -17,6 +17,17 @@
 - Find In Path
 - *Ctrl-F3*
 
+## Switch
+
+- *Ctrl+(Shift)+TAB*
+- *Ctrl+E*
+- *Alt+1*
+- *Alt+2*  *F11* *Ctrl+F11*
+
+## Move caret
+
+-
+
 ## Version Control
 
 - Local History
