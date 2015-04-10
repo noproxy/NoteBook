@@ -1,10 +1,10 @@
 # Usage for *Intellij IDEA*
 
-## How to 
+## How To Explore
 
-- Find Action *Ctrl-Shift-A*
+- Find Action *Ctrl-Shift-A*![](find_action.png)![](productivitiy_guide.png)
 - Productivity Guide
-- ![Default keymap reference](IntelliJIDEA_ReferenceCard.pdf)
+- Default keymap reference
 - keymap
 
 ## Seach Everywhere
