@@ -18,6 +18,8 @@
 - Keymap
 
  ![](keymap.png)
+ 
+- Plugin: key promoter
 
  
 
@@ -30,17 +32,33 @@
 - Incremental Search
 - Find In Path *Ctrl-Shift-F*
 - Find Word At Caret *Ctrl-F3*
+- Structure Search
 
 ## Switch
 
-- *Ctrl+(Shift)+TAB*
-- *Ctrl+E*
-- *Alt+1*
-- *Alt+2*  *F11* *Ctrl+F11*
+- Switcher *Ctrl+(Shift)+TAB*
+- Recent files *Ctrl+E*
+- Project *Alt+1*
+- Favorites *Alt+2*  *F11* *Ctrl+F11*
+- TODO *Alt+6*
+- Structure *Alt+7* (一下打开，两下获取焦点)
+- Hide Active Tool Window *Shift+Esc*
+- Tool window mode: Pinned, Floating, as Tabs, Docked, Split
 
-## Move caret
+  UI preview: Pinned, Floating
+  Project, TODO: Unpinned, Floating
 
--
+## Edit& Navigation
+
+- Use "CamelHumps" words
+- Plugin: Browse word at caret/ AceJump
+- Move caret by word *Ctrl+Up/Down/Left/Right* (shift: select)
+- Move caret by method *Alt+Up/Down/Left/Right* (shift: move line)
+- Copy, Cut, Duplicate line *Ctrl+C,X,D* 
+- Home, End, PaDn, PaUp
+- File Structure *Ctrl+F12*
+- MutilpCaret
+- Scratch
 
 ## Version Control
 
