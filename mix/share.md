@@ -32,7 +32,7 @@
 - Incremental Search
 - Find In Path *Ctrl-Shift-F*
 - Find Word At Caret *Ctrl-F3*
-- Structure Search
+- Search Structural
 
 ## Switch
 
@@ -57,7 +57,7 @@
 - Copy, Cut, Duplicate line *Ctrl+C,X,D* 
 - Home, End, PaDn, PaUp
 - File Structure *Ctrl+F12*
-- MutilpCaret
+- MutlipCaret (Alt+J, )
 - Scratch
 
 ## Version Control
@@ -67,8 +67,10 @@
 
 ## Code Generator
 
-- *Ctrl+O*
-- *Setter*
-- *Getter*
-- *Constructor*
-- *toString*
+- Override methods *Ctrl+O*
+- Delegate methods
+- Setter
+- Getter
+- Constructor
+- toString(), hashCode(), equals()
+- 
