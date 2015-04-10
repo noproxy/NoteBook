@@ -15,19 +15,21 @@
 
  ![](default_keymap.png)
  
-- k!](keymap.png)eymap
+- Keymap
+
+ ![](keymap.png)
 
  
 
 ## Seach Everywhere
 
 - Serch Everywhere *Shift-Shift*
-- *Ctrl-Shift-A*
-- *Ctrl-N*
-- *Ctrl-Shift-A*
+- Find Action *Ctrl-Shift-A*
+- Find Class *Ctrl-N*
+- Find File *Ctrl-Shift-A*
 - Incremental Search
-- Find In Path
-- *Ctrl-F3*
+- Find In Path *Ctrl-Shift-F*
+- Find Word At Caret *Ctrl-F3*
 
 ## Switch
 
