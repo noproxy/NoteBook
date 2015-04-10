@@ -2,9 +2,18 @@
 
 ## How To Explore
 
-- Find Action *Ctrl-Shift-A*![](find_action.png)
-- Productivity Guide![](productivitiy_guide.png)
+- [Help](https://www.jetbrains.com/idea/help/intellij-idea.html)
+- Find Action *Ctrl-Shift-A*
+
+ ![](find_action.png)
+
+- Productivity Guide
+ 
+ ![](productivitiy_guide.png)
+
 - Default keymap reference
+
+ ![](default_keymap.png)
 - keymap
 
 ## Seach Everywhere
