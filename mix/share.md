@@ -2,8 +2,8 @@
 
 ## How To Explore
 
-- Find Action *Ctrl-Shift-A*![](find_action.png)![](productivitiy_guide.png)
-- Productivity Guide
+- Find Action *Ctrl-Shift-A*![](find_action.png)
+- Productivity Guide![](productivitiy_guide.png)
 - Default keymap reference
 - keymap
 
