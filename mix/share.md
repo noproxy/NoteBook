@@ -95,6 +95,8 @@
 - toString(), hashCode(), equals()
 
 ## Vmoptions
+
+- use x64 idea
 - Xmx 最大可用内存
 - Xms 初始化内存栈
 
