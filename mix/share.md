@@ -4,21 +4,9 @@
 
 - [Help](https://www.jetbrains.com/idea/help/intellij-idea.html)
 - Find Action *Ctrl+Shift+A*
-
- ![](find_action.png)
-
 - Productivity Guide
- 
- ![](productivitiy_guide.png)
-
 - Default keymap reference
-
- ![](default_keymap.png)
- 
 - Keymap
-
- ![](keymap.png)
- 
 
  
 
@@ -40,7 +28,7 @@
 - Recent files *Ctrl+E* Recent Edited file *Ctrl+Shift*
 
 - Project *Alt-1*
-- Favorites *Alt+2*  *F11* *Ctrl+F11*
+- Favorites *Alt+2*  mark *F11* mark and assgin shortcuts *Ctrl+F11* show bookmarks *Shift+F11*
 - TODO *Alt+6*
 - Structure *Alt+7* (一下打开，两下获取焦点)
 
