@@ -1,4 +1,4 @@
-# Usage for *Intellij IDEA*
+# Keyboard Ninja With *Intellij IDEA*
 
 ## How To Explore
 
@@ -34,7 +34,7 @@
 - Find Word At Caret *Ctrl-F3*
 - Search Structural
 
-## Switch
+## Context& Windows Navigation
 
 - Switcher *Ctrl+(Shift)+TAB*
 - Recent files *Ctrl+E*
@@ -43,12 +43,13 @@
 - TODO *Alt+6*
 - Structure *Alt+7* (一下打开，两下获取焦点)
 - Hide Active Tool Window *Shift+Esc*
+- Store
 - Tool window mode: Pinned, Floating, as Tabs, Docked, Split
 
   UI preview: Pinned, Floating
   Project, TODO: Unpinned, Floating
 
-## Edit& Navigation
+## Edit& Text Navigation
 
 - Use "CamelHumps" words
 - Plugin: Browse word at caret/ AceJump
@@ -74,3 +75,7 @@
 - Constructor
 - toString(), hashCode(), equals()
 - 
+
+## Awesome
+
+-
