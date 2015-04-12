@@ -66,6 +66,7 @@
 - Move caret by method *Alt+Up/Down/Left/Right* (shift: move line)
 - Copy, Cut, Duplicate line *Ctrl+C,X,D* 
 - Home, End, PaDn, PaUp
+- Fold/Unfold *Ctr+-* *Ctrl+=* (shift:all) *Ctrl+.*
 
 - Declaration/Usage *Ctrl+B*
 - Implementations *Ctrl+Alt+B*
@@ -78,6 +79,7 @@
 ## Version Control
 
 - Local History
+- Rollback on Gutter
 
 
 ## Code Generator
