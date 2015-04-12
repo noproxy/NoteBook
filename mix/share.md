@@ -17,7 +17,7 @@
 - Find Class *Ctrl+N*
 - Find File *Ctrl+Shift+A*
 - Find Symbol *Ctrl+Alt+Shift+N*
-- Find *Ctrl+F*
+- Find *Ctrl+F* Replace
 - Incremental Search
 - Find In Path *Ctrl+Shift+F*
 - Search Structural
@@ -55,6 +55,7 @@
 - Move caret by word *Ctrl+Up/Down/Left/Right* (shift: select)
 - Move caret by method *Alt+Up/Down/Left/Right* (shift: move line)
 - Copy, Cut, Duplicate line *Ctrl+C,X,D* 
+- Join line *Ctrl+Shift+J*
 - Home, End, PaDn, PaUp
 - Fold/Unfold *Ctr+-* *Ctrl+=* (shift:all) *Ctrl+.*
 
@@ -68,6 +69,10 @@
 - Multip Caret (Alt+J)
 - Scratch
 
+- Optimize Imports
+- Rearrange code
+- Reformat code*Ctrl+Alt+L*
+
 ## Version Control
 
 - Local History
@@ -77,6 +82,8 @@
 ## Code Generator
 
 - Insert Live Templates *Ctrl+J*
+- Surround with Live Templates *Ctrl+Alt+J/T*
+- Intent Action *Alt+Enter*
 - Postfix Completion
 - Copyright Profiles
 - Override methods *Ctrl+O*
