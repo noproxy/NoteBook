@@ -73,6 +73,9 @@
 - Rearrange code
 - Reformat code*Ctrl+Alt+L*
 
+- Documentation *Ctrl+Q*
+- Parameters *Ctrl+P*
+
 ## Version Control
 
 - Local History
@@ -95,7 +98,7 @@
 
 ## Vmoptions
 
-- use x64 idea
+- x64 idea
 - Xmx 最大可用内存
 - Xms 初始化内存栈
 
@@ -128,5 +131,11 @@
 - Font: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality* *openjdk-fontfix*
 
-![](font_bad.png)
-![](font_good.png)
+## Even More
+
+- Rename, move
+- Extract Variable/Constant/Field/Parameter/Method/Interface/Inline
+- Convert anonymous class to inner
+- Replace Inheritance With Delegation
+- Encapsulate Fields
+- Factory Method
