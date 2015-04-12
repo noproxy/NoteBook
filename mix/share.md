@@ -131,6 +131,9 @@
 - Font: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality* *openjdk-fontfix*
 
+![](foot_bad.png)
+![](foot_good.png)
+
 ## Even More
 
 - Rename, move
