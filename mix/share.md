@@ -1,4 +1,4 @@
-# Keyboard Ninja With *Intellij IDEA*
+# Keyboard Ninja With Intellij *IDEA*
 
 ## How To Explore
 
@@ -19,7 +19,6 @@
 
  ![](keymap.png)
  
-- Plugin: key promoter
 
  
 
@@ -74,8 +73,13 @@
 - Getter
 - Constructor
 - toString(), hashCode(), equals()
-- 
+
 
 ## Awesome
 
--
+- Website: [IDEA Color Theme](http://www.ideacolorthemes.org/)
+- Plugin: Key Promoter
+- Plugin: Settings Repository
+- Font: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality*
+- 
