@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Git](notes/git/git.md)
+* [Git](git/git.md)
    * [miscellaneous](miscellaneous.md)
 * [Gradle](notes/gradle/gradle.md)
    * [Introducing Gradle](notes/gradle/IntroducingGradle.md)
