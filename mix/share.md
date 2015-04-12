@@ -63,6 +63,7 @@
 ## Edit& Text Navigation
 
 - Use "CamelHumps" words
+- Extend Selection *Ctrl+W*
 - Move caret by word *Ctrl+Up/Down/Left/Right* (shift: select)
 - Move caret by method *Alt+Up/Down/Left/Right* (shift: move line)
 - Copy, Cut, Duplicate line *Ctrl+C,X,D* 
@@ -76,7 +77,7 @@
 
 - Next hightlighted error *F2* *Shift+F12* 
 
-- MultipCaret (Alt+J)
+- Multip Caret (Alt+J)
 - Scratch
 
 ## Version Control
@@ -87,6 +88,9 @@
 
 ## Code Generator
 
+- Insert Live Templates *Ctrl+J*
+- Postfix Completion
+- Copyright Profiles
 - Override methods *Ctrl+O*
 - Delegate methods 
 - Setter
