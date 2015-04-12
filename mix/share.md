@@ -55,7 +55,7 @@
   Project, TODO: Unpinned, Floating
   
 - No Tab, Distraction Free Mode
-- Split Windows(Recommand: Ctrl-Shift-Alt-V/H)
+- Split Windows(Recommand: Ctrl+Shift+Alt+V/H)
 
 - Previous/Next Project Windows *Ctrl+Alt+[* *Ctrl+Alt+]* 
 
