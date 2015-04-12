@@ -3,7 +3,7 @@
 ## How To Explore
 
 - [Help](https://www.jetbrains.com/idea/help/intellij-idea.html)
-- Find Action *Ctrl-Shift-A*
+- Find Action *Ctrl+Shift+A*
 
  ![](find_action.png)
 
@@ -24,13 +24,14 @@
 
 ## Seach Everywhere
 
-- Serch Everywhere *Shift-Shift*
-- Find Action *Ctrl-Shift-A*
-- Find Class *Ctrl-N*
-- Find File *Ctrl-Shift-A*
+- Serch Everywhere *Shift+Shift*
+- Find Action *Ctrl+Shift+A*
+- Find Class *Ctrl+N*
+- Find File *Ctrl+Shift+A*
+- Find Symbol *Ctrl+Alt+Shift+N*
+- Find *Ctrl+F*
 - Incremental Search
-- Find In Path *Ctrl-Shift-F*
-- Find Word At Caret *Ctrl-F3*
+- Find In Path *Ctrl+Shift+F*
 - Search Structural
 
 ## Context& Windows Navigation
@@ -38,7 +39,7 @@
 - Switcher *Ctrl+(Shift)+TAB*
 - Recent files *Ctrl+E* Recent Edited file *Ctrl+Shift*
 
-- Project *Alt+1*
+- Project *Alt-1*
 - Favorites *Alt+2*  *F11* *Ctrl+F11*
 - TODO *Alt+6*
 - Structure *Alt+7* (一下打开，两下获取焦点)
@@ -72,6 +73,8 @@
 - Implementations *Ctrl+Alt+B*
 - Super Method/Class *Ctrl+U*
 - File Structure *Ctrl+F12*
+
+- Next hightlighted error *F2* *Shift+F12* 
 
 - MultipCaret (Alt+J)
 - Scratch
