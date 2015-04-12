@@ -94,6 +94,27 @@
 - Constructor
 - toString(), hashCode(), equals()
 
+## Vmoptions
+- Xmx 最大可用内存
+- Xms 初始化内存栈
+
+```
+-server
+-Xms2g
+-Xmx4g
+-XX:MaxPermSize=512m
+-XX:ReservedCodeCacheSize=512m
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-XX:ParallelGCThreads=12
+-XX:+DisableExplicitGC
+-XX:+UseStringCache 
+-XX:+UseFastAccessorMethods 
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+```
+
 
 ## Awesome
 
