@@ -81,5 +81,7 @@
 - Plugin: Key Promoter
 - Plugin: Settings Repository
 - Font: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-- Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality*
-- 
+- Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality* *openjdk-fontfix*
+
+ ![](font_bad.png)
+ ![](font_good.png)
