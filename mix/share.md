@@ -42,7 +42,9 @@
 - TODO *Alt+6*
 - Structure *Alt+7* (一下打开，两下获取焦点)
 - Hide Active Tool Window *Shift+Esc*
-- Store
+- Jump to last tool windows *F12*
+- Store Current Layout as Default
+  Restore Default Layout *Shift+F12*
 - Tool window mode: Pinned, Floating, as Tabs, Docked, Split
 
   UI preview: Pinned, Floating
@@ -51,7 +53,6 @@
 ## Edit& Text Navigation
 
 - Use "CamelHumps" words
-- Plugin: Browse word at caret/ AceJump
 - Move caret by word *Ctrl+Up/Down/Left/Right* (shift: select)
 - Move caret by method *Alt+Up/Down/Left/Right* (shift: move line)
 - Copy, Cut, Duplicate line *Ctrl+C,X,D* 
@@ -77,9 +78,11 @@
 
 ## Awesome
 
+- Power Save Mode
 - Website: [IDEA Color Theme](http://www.ideacolorthemes.org/)
 - Plugin: Key Promoter
 - Plugin: Settings Repository
+- Plugin: Browse word at caret/ AceJump
 - Font: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - Font Render:[Infinality](http://infinality.net) *jdk8-openjdk-infinality* *openjdk-fontfix*
 
