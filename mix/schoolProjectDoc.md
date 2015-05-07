@@ -98,8 +98,7 @@
   - 项目包名：cn.edu.hust.baidu.club.csapp
   - 应用主题采用AppCompat
   - 正确使用xml文件，不要在程序代码和界面xml代码里面硬编码界面的文字，务必将所有的界面上出现的文字放在res/values/strings里面。界面的颜色也要正确的使用style定义，比如，不要为了改变Toolbar的颜色在特定界面的xml里指定颜色，而是去界面主题里更改primaryColor属性
-  - 不要在代码里出现任何汉字，包括注释
-  - 允许拼音，但最好不要，查一下词典会死啊？！
+
 
 ## 客户端后台
 
@@ -108,3 +107,9 @@
   - 如果参数不可以传null值，务必加上@NotNull或者@NonNull注解；如果可以传null，解释着代表什么
   - 如果返回值可以为null，请务必在注释里提醒。不予提醒，就代表，你的这个方法，返回的一定不会为null
   - 如果方法会throw异常，在throw的时候，加些为何你要throw的提示信息，比如```if (name == null || name.length() < 1 ) throw new IllegalNameException("You can not use a empty name.");```
+
+## 给所有开发 
+
+  - 不允许不规范的命名 （例外：为GSON写的类的一些属性的名字可以采用和服务器返回的字段相匹配的属性名，不必遵循其他地方的命名规范）
+  - 不要在代码里出现任何汉字，包括注释
+  - 允许拼音，但最好不要，查一下词典会死啊？
