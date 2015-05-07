@@ -98,6 +98,14 @@
   - 项目包名：cn.edu.hust.baidu.club.csapp
   - 应用主题采用AppCompat
   - 正确使用xml文件，不要在程序代码和界面xml代码里面硬编码界面的文字，务必将所有的界面上出现的文字放在res/values/strings里面。界面的颜色也要正确的使用style定义，比如，不要为了改变Toolbar的颜色在特定界面的xml里指定颜色，而是去界面主题里更改primaryColor属性
+  - 一定会用到的第三方库：
+```gradle
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.squareup.okhttp:okhttp:2.3.0'
+```
+    另外还有androidannotations,这个必须自己去github的wiki去看文档再用
 
 
 ## 客户端后台
@@ -107,6 +115,13 @@
   - 如果参数不可以传null值，务必加上@NotNull或者@NonNull注解；如果可以传null，解释着代表什么
   - 如果返回值可以为null，请务必在注释里提醒。不予提醒，就代表，你的这个方法，返回的一定不会为null
   - 如果方法会throw异常，在throw的时候，加些为何你要throw的提示信息，比如```if (name == null || name.length() < 1 ) throw new IllegalNameException("You can not use a empty name.");```
+  - 一定会用的第三方库：
+```gradle
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.squareup.okhttp:okhttp:2.3.0'
+```
 
 ## 给所有开发 
 
