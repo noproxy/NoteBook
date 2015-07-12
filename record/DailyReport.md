@@ -14,6 +14,21 @@
 
  - UIAutomator
  - EventBus
- - Drager
+ - Dagger
  - Android Design Library
  - Write Common component of UI of One Moment
+ 
+ 
+## 2015.07.12 
+ 
+  - Data Binding(Abandoned, conflict with many library )
+  - UIAutomator
+  - Remove AndroidAnnotations, add eventbus+priority-jobqueue as main structure
+  - Use retrofit+okhttp instead of androidAsync and ION
+  - replace ORMLite with GreenORM
+  - avoid some bug of android studio and android gradle plugin(much time)
+
+### 2015.07.13 plan
+
+- Android Design Library
+- Write Common component of UI of One Moment
