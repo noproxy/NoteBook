@@ -42,3 +42,12 @@
 
 - (rest) Write Common component of UI of One Moment
 - UI Basic of World
+
+## 2015.07.14
+
+- Finish Navigation Drawer ui and function
+- (partly) Write Common component of UI of One Moment
+
+### 2015.07.15 plan
+
+**Parents coming, day off**
