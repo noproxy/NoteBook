@@ -32,3 +32,13 @@
 
 - Android Design Library
 - Write Common component of UI of One Moment
+
+## 2015.07.13
+
+- Android Design Library
+- (partly) Write Common component of UI of One Moment
+
+### 2015.07.14 plan
+
+- (rest) Write Common component of UI of One Moment
+- UI Basic of World
