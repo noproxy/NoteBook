@@ -51,3 +51,8 @@
 ### 2015.07.15 plan
 
 **Parents coming, day off**
+
+## 2015.07.16 
+
+- Add World Pager navigation Tab
+- Add world recommend Slider
