@@ -56,3 +56,13 @@
 
 - Add World Pager navigation Tab
 - Add world recommend Slider
+
+## 2015.07.17
+
+- implement almost World UI
+- trouble with memory leak
+
+### 2015.7.18 plan
+
+- solve memory leak
+- Calender in Diary Act
