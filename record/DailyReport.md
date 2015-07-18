@@ -66,3 +66,12 @@
 
 - solve memory leak
 - Calender in Diary Act
+
+## 2015.7.18
+
+- solve memory
+
+### 2015.7.19
+
+- more about android 2D graphics drawing
+- draw Calendar
