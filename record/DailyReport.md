@@ -71,7 +71,7 @@
 
 - solve memory
 
-### 2015.7.19
+### 2015.7.19 plan
 
 - more about android 2D graphics drawing
 - draw Calendar
