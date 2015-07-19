@@ -1,1 +1,3 @@
 ../README.md
+../markdown/Sample.md
+../gradle/IntroducingGradle.md
