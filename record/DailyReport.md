@@ -81,7 +81,7 @@
 - read much about Canvas
 - draw Calendar
 
-## 2015.7.20
+## 2015.7.20 plan
 
 - draw Calendar (will take long time, take apart into days)
 - finish most simple ui(Settings About IdentityInfo Discovery Notification)
