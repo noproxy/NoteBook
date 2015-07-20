@@ -85,3 +85,15 @@
 
 - draw Calendar (will take long time, take apart into days)
 - finish most simple ui(Settings About IdentityInfo Discovery Notification)
+
+## 2015.7.20
+
+- finished UI:
+  - Settings(include function)
+  - Discovery
+  - VideoLike
+- abandoned UI: Notification(move to settings)
+
+### 2015.7.21 plan
+
+- UI: About IdentityInfo Me
