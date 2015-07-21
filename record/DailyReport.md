@@ -97,3 +97,13 @@
 ### 2015.7.21 plan
 
 - UI: About IdentityInfo Me
+
+## 2015.7.21
+
+- repair some bug in VideoLike(renamed to VotedUpVideo)
+- UI: Me
+
+## 2015.7.22 plan
+
+- UI: IdentityInfo Splash 
+- Animation: Transition
