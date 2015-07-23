@@ -107,3 +107,12 @@
 
 - UI: IdentityInfo Splash 
 - Animation: Transition
+
+## 2015.7.22 
+
+- fix some bug
+
+## 2015.7.23 plan
+
+- UI: IdentityInfo Splash 
+- Animation: Transition
