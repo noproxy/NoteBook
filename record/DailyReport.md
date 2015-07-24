@@ -127,3 +127,13 @@
 
 - Shadow for old version system
 - UI: IdentityInfo Login SignUp
+
+## 2015.7.24
+
+- give up shadow for old version system
+- UI: IdentityInfo Login SignUp
+
+## 2015.7.25 plan
+
+- Login UI adjustment
+- some custom view
