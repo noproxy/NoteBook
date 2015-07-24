@@ -117,13 +117,13 @@
 - UI: IdentityInfo Splash 
 - Animation: Transition
 
-## 2015.7.24
+## 2015.7.23
 
 - rewrite Settings for old version system
 - Splash
 - Shadow for old version system( partly)
 
-## 2015.7.25 plan
+## 2015.7.24 plan
 
 - Shadow for old version system
 - UI: IdentityInfo Login SignUp
