@@ -137,3 +137,15 @@
 
 - Login UI adjustment
 - some custom view
+
+## 2015.7.25
+
+- Login UI adjustment
+- a custom view
+
+## 2015.7.26 plan
+
+Custom View:
+
+  - Password view
+  - Video Play View
