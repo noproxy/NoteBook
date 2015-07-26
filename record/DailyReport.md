@@ -149,3 +149,12 @@ Custom View:
 
   - Password view
   - Video Play View
+  
+## 2015.7.26
+
+Password view
+Solve notification bug on 1.3
+
+## 2015.7.26 plan
+
+Some Custom View
