@@ -155,23 +155,23 @@ Custom View:
 Password view
 Solve notification bug on 1.3
 
-## 2015.7.26 plan
-
-Some Custom View
-
-## 2015.7.26
-
-Some Custom View
-
 ## 2015.7.27 plan
+
+Some Custom View
+
+## 2015.7.27
+
+Some Custom View
+
+## 2015.7.28 plan
 
 Learn Gradle& Bintray
 
-## 2015.7.27
+## 2015.7.28
 
 - Learn Gradle
 - Rearrange git repository, remove some system-dependent files
 
-## 2015.7.28 plan
+## 2015.7.29 plan
 
 Continuing learning Gradle& Bintray
