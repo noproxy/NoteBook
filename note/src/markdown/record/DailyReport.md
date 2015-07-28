@@ -166,3 +166,12 @@ Some Custom View
 ## 2015.7.27 plan
 
 Learn Gradle& Bintray
+
+## 2015.7.27
+
+- Learn Gradle
+- Rearrange git repository, remove some system-dependent files
+
+## 2015.7.28 plan
+
+Continuing learning Gradle& Bintray
