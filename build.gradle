@@ -7,9 +7,10 @@ buildscript {
         classpath 'org.kordamp:markdown-gradle-plugin:1.0.0'
     }
 }
-apply plugin: 'org.kordamp.markdown.convert'
 
 group 'me.toxz'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'idea'
+allprojects {
+    apply plugin: 'idea'
+}
