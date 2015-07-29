@@ -179,7 +179,10 @@ Continuing learning Gradle& Bintray
 
 ## 2015.7.29
 
-Continuing learning Gradle& Bintray
+- Continuing learning Gradle& Bintray
+- Configure new style Windows Manager
+- Solve the sound problem(PC)
+
 
 ## 2015.7.30 plan
 
