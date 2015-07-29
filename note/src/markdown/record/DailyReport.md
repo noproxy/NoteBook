@@ -175,3 +175,8 @@ Learn Gradle& Bintray
 ## 2015.7.29 plan
 
 Continuing learning Gradle& Bintray
+
+## 2015.7.29
+
+- Continuing learning Gradle
+- UI: Play
