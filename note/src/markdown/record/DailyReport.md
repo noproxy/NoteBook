@@ -188,3 +188,14 @@ Continuing learning Gradle& Bintray
 
 - Continuing learning Gradle
 - UI: Play
+
+## 2015.7.30
+
+- Continuing learning Gradle
+- Test 1.3.0 gradle plugin and 0.2.0 experimental plugin
+
+## 2015.7.31 plan
+
+- merge multiple project into one
+- UI: Play
+- Function: Account
